@@ -4,7 +4,7 @@ Website: [https://agheb.github.io/thinkful-submission/](https://agheb.github.io/
 
 ## Unit 1 HTML, CSS, and Version Control
 
-[1-2] (https://agheb.github.io/thinkful-submission/lesson1-2/)
+[1-2] (https://agheb.github.io/thinkful-submission/lesson1-2/)  
 [1-3] (https://agheb.github.io/thinkful-submission/lesson1-5/)
 
 
