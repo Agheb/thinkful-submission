@@ -2,6 +2,6 @@
 
 ## Lesson 1 
 
-Lorem ipsum 
+Lorem ipsum sofonosnfo
 
 ## Lesson 2
