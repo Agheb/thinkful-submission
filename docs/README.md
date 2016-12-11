@@ -1,5 +1,7 @@
 # Assignments for Thinkful's Web Development course
 
-Lesson 1 
+## Lesson 1 
 
-Lesson 2
+Lorem ipsum 
+
+## Lesson 2
