@@ -1,1 +1,19 @@
 
+
+.container {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+nav {
+	background-color: grey;
+	position: fixed;
+	height: 60px
+
+}
+
+.logo {
+	
+	vertical-align: middle;
+	height: 50px;
+}
