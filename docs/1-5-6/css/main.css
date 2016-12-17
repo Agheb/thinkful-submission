@@ -3,39 +3,77 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-   
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 nav {
     position: fixed;
     background: #EEEEEE; 
     border-bottom: #DDDDDD;
-    padding: 10px;
+    padding: 15px;
     width: 100%;
  }
 
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
- }
-
 .logo {
-    float: left;
+    left: 30px;
 }
 
 .nav-right {
-    position:absolute;
-    right: 30px;
-    top:10px;
-    padding: 0 10px;
-   
+    float: right;
 }
 
+.site-section {
 
+    padding: 80px 80px 40px;
+}
 
+.site-section button {
+    background-color: white;
+    border: 1px solid #DDDDDD;
+    height:30px;
+}
 
+.site-section form button, div button {
+  border-radius: 3px;
+  vertical-align: bottom;
 
+}
 
+.site-section form {
+    margin-bottom: 30px;
 
+}
 
+.site-section button img {
+    height:100%;
+    
+}
+
+.site-section input {
+   height: 30px;
+   border: 1px solid #DDDDDD;
+   border-radius: 3px;
+
+}
+
+.listing {
+  padding-left: 80px;
+  line-height: 3,5
+}
+
+.listing-date {
+  padding-right: 10px;
+  color: #999;
+  vertical-align: text-bottom;
+}
+
+.listing-location {
+  padding-left: 6px;
+  color: #999;
+  vertical-align: text-bottom;
+}
 
 
