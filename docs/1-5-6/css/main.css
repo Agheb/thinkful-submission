@@ -36,7 +36,7 @@ nav {
     height:30px;
 }
 
-.site-section form button, div button {
+.site-section forcm button, div button {
   border-radius: 3px;
   vertical-align: bottom;
 
